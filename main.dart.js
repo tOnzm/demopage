@@ -36322,7 +36322,7 @@ this.rq()},
 rq(){var s=0,r=A.a_(t.H),q=this,p
 var $async$rq=A.a0(function(a,b){if(a===1)return A.X(b,r)
 while(true)switch(s){case 0:s=2
-return A.a5($.nl().a1t("assets/\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e27\u0e31\u0e14.csv"),$async$rq)
+return A.a5($.nl().a1t("assets/temple_data.csv"),$async$rq)
 case 2:p=b
 q.an(new A.a6U(q,A.at0(A.a([p],t._m),!0,null,",",'"','"',"\r\n",!0,!0).Z9(p,t.z)))
 return A.Y(null,r)}})
